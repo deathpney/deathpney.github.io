@@ -1,0 +1,52 @@
+body
+{
+	background-color:white;
+	/*background-color:white;*/
+}
+img
+{
+	width: 150px;
+	height: 200px;
+    border-radius: 8px;
+}
+
+.div
+{
+	font-size: 20px;
+}
+
+.name
+{
+	color: red;
+	position: absolute;
+	right: 80px;
+	top: 20px;
+}
+
+.adress
+{
+	position: absolute;
+	right: 80px;
+	top: 55px;
+	font-style: italic;
+}
+
+.compet
+{
+	background-color: #80acf2;
+	color: white;
+	position: absolute;
+	width: 100% content-box;
+	right: 50px;
+}
+
+.exp
+{
+	position: absolute;
+	background-color: #bef17f;
+	color:white;
+	margin-right: 50px;
+	margin-top: 200px;	
+}
+
+
