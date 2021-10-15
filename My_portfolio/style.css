@@ -1,0 +1,83 @@
+body
+{
+	margin: 0;padding: 0;
+    background-color:rgba(39, 48, 47, 0.815);
+    font-family: 'Courier New', monospace;
+    color: white;
+}
+
+.about
+{
+    margin-top: 50px;
+    position: relative;
+    font-size: 20px;
+}
+
+.photocv
+{
+    position: absolute;
+    margin-left: 1100px;
+    width: 180px;
+}
+
+.inner
+{
+    width: 80%;
+    margin: auto;
+}
+.chevalier
+{
+    width: 270px;
+    right: 5px;
+    justify-content: center;
+
+}
+.gauche
+{
+    width: 700px;
+    margin: 0; padding: 0;
+}
+.acceuil
+{
+    font-size: 60px;
+    margin-left :825px;
+    margin-bottom: -60px;       
+}
+.casque
+{
+    width: 270px;
+    top: auto;
+    height: auto;
+    margin-left: auto;
+    justify-content: center;
+}
+footer {
+    display: flex   ;
+    justify-content: center;
+    padding: 5px;
+    background-color: black;
+    color: #fff;
+}
+
+.logotwi
+{
+    width: 25px;
+    margin-right: 4px; 
+}
+.logoinsta
+{
+    width: 20px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
+
+.logodiscord
+{
+    width: 22px;
+    margin-bottom: 6px;
+    margin-right: 2px;
+}
+.Copyright
+{
+    margin: center;
+}
